@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+
+baseURL = "https://ivanovyordan.github.io/data-engineering-portfolio/"
+canonifyURLs = true
+relativeURLs = false
+
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "PaperMod"
